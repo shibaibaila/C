@@ -1,0 +1,7 @@
+﻿  teacher.cpp
+C:\Users\我\source\repos\期末作业\teacher.cpp(294,17): warning C4101: “b”: 未引用的局部变量
+C:\Users\我\source\repos\期末作业\teacher.cpp(385,17): warning C4101: “b”: 未引用的局部变量
+C:\Users\我\source\repos\期末作业\teacher.cpp(503,17): warning C4101: “b”: 未引用的局部变量
+  teacher_表格.cpp
+  正在生成代码...
+  期末作业.vcxproj -> C:\Users\我\source\repos\期末作业\x64\Debug\期末作业.exe
